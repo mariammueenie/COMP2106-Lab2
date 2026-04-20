@@ -1,4 +1,8 @@
-# COMP2106 Lesson 2
+# COMP2106 Lab 2
+
+## Lab 2 Output
+
+![Lab 2 screenshot](screenshots/lab2-output.png)
 
 ## Terminal Commands to Use
 
