@@ -2,7 +2,7 @@
 
 ## Lab 2 Output
 
-![Lab 2 screenshot](screenshots/lab2-output.png)
+![Lab 2 screenshot](screenshots/lab2-screenshot.png)
 
 ## Terminal Commands to Use
 
