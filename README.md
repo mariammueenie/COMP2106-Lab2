@@ -1,6 +1,6 @@
 # COMP2106 Lesson 2
 
-## Terminal Commands
+## Terminal Commands to Use
 
 `npm init -y` - initializes npm & creates package.json w/default values
 
